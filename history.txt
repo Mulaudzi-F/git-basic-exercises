@@ -1,0 +1,55 @@
+    1  ls
+    2  cd git-basic-exercises/
+    3  ls -a
+    4  ls
+    5  ls
+    6  clear
+    7  git init
+    8  ls -a
+    9  git status
+   10  touch README.md
+   11  ls -a
+   12  git status
+   13  git log
+   14  git log
+   15  git add
+   16  git add .
+   17  git commit -m"initial commit"
+   18  git log
+   19  nano README.md
+   20  cat README.md
+   21  git add .
+   22  git commit -m"second commit"
+   23  nano README.md
+   24  git add .
+   25  git commit -m"Third Commit"
+   26  git log
+   27  q
+   28  clear
+   29  git checkout
+   30  git checkout b6ac7bb4692a37d34375c846cb0542dd84181491
+   31  cat README.md
+   32  git checkout main
+   33  git chekckout main
+   34  git checkout main
+   35  git checkout
+   36  git checkout mater
+   37  cat README.md
+   38  git checkout main
+   39  git checkout
+   40  git checkout main
+   41  git branch
+   42  git checkout master
+   43  git checkout -b milkshake-flavours
+   44  git branch
+   45  nano milkshakes.md
+   46  git status
+   47  git add .
+   48  git commit -m"added initial flavours"
+   49  git log
+   50  git checkout master
+   51  git history
+   52  git checkout -b history
+   53  git log
+   54  git branch
+   55  history > history.txt
